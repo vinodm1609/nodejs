@@ -11,8 +11,8 @@
      console.log(result);
  }
 
- add();
+ add(); 
 
    console.log(car);
-   console.log("testing ");
+   console.log("hey world ");
 
