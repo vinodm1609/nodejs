@@ -12,4 +12,7 @@
  }
 
  add();
+
    console.log(car);
+   console.log("testing ");
+
